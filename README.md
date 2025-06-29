@@ -7,7 +7,8 @@ Sure! Here's the **complete `README.md` file** — ready to copy and use in your
 ```markdown
 # 🧱 Builder Design Pattern in Java
 
-This project demonstrates how to implement the **Builder Design Pattern** in Java using a real-world example of a `User` class. The Builder pattern provides a flexible solution to object creation problems when an object has many fields, some of which may be optional.
+This project demonstrates how to implement the **Builder Design Pattern** in Java using a real-world example of a `User` class. 
+The Builder pattern provides a flexible solution to object creation problems when an object has many fields, some of which may be optional.
 
 ---
 
